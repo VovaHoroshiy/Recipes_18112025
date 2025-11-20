@@ -1,13 +1,11 @@
 # Рецепты
 
 - [Брауни](brownie.md)
-- [Банановые панкейки](banana pancace.md)
-
-- [Картофель «Айдахо»](Potatos aidaho.md)
-
 - [Банановый хлеб](banana_bread.md)
+- [Банановые панкейки](banana_pancace.md)
+- [Картофель "Айдахо"](Potatos_aidaho.md)
+- [Курица "Пикассо"](chiken_Picasso.md)
 
-- Овощной суп
-- Молоко с хлебом для клона
+
 
 
