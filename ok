@@ -1,0 +1,96 @@
+[33mcommit 26f0271a3a7ef126b3ac56e759d183f80de0f252[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;32mnumbered-list[m[33m)[m
+Author: VovaHoroshiy <mishinv1987@gmail.com>
+Date:   Thu Nov 20 19:29:36 2025 +0300
+
+    Numeraciya
+
+[33mcommit ac817807436bbd858bae1c88fb0fbc523ce8de4b[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: VovaHoroshiy <mishinv1987@gmail.com>
+Date:   Thu Nov 20 18:21:25 2025 +0300
+
+    Add chiken Picasso in READ ME
+
+[33mcommit a37323b5d850e330539f2489933109a6c0635035[m
+Merge: 181ea44 7b03346
+Author: VovaHoroshiy <mishinv1987@gmail.com>
+Date:   Thu Nov 20 18:08:26 2025 +0300
+
+    Merge branch 'reciep-1'
+
+[33mcommit 7b03346199ea5c8abf1014421247a330966d4208[m[33m ([m[1;32mreciep-1[m[33m)[m
+Author: VovaHoroshiy <mishinv1987@gmail.com>
+Date:   Thu Nov 20 18:04:50 2025 +0300
+
+    update reciep chiken Picasso
+
+[33mcommit 181ea444b828abbc8cfae409f76515c601895598[m
+Author: VovaHoroshiy <mishinv1987@gmail.com>
+Date:   Thu Nov 20 18:01:10 2025 +0300
+
+    Fix ags in brownie
+
+[33mcommit 5e13164746a61c46cb00f3e7aec753fcf93d8d51[m
+Author: VovaHoroshiy <mishinv1987@gmail.com>
+Date:   Thu Nov 20 17:51:25 2025 +0300
+
+    Add chiken_Picasso and delete wrong file
+
+[33mcommit 46a6ab2b9540049dd1e2b47225247bc633924a79[m
+Author: VovaHoroshiy <mishinv1987@gmail.com>
+Date:   Wed Nov 19 18:30:04 2025 +0300
+
+    New recipe milk in README
+
+[33mcommit 267c1440451d3256581a7967312dbc4ac5422a81[m
+Author: VovaHoroshiy <mishinv1987@gmail.com>
+Date:   Wed Nov 19 18:20:47 2025 +0300
+
+    Add new recipe as line in README
+
+[33mcommit 8fae2d462abe3cb67b70b26a7461d1664ee463dd[m
+Author: VovaHoroshiy <mishinv1987@gmail.com>
+Date:   Tue Nov 18 21:50:03 2025 +0300
+
+    add_readme
+
+[33mcommit ce7d439bc40ce2eb71863a7a5a80923e35474bb6[m
+Author: VovaHoroshiy <mishinv1987@gmail.com>
+Date:   Tue Nov 18 21:46:15 2025 +0300
+
+    добавлены ссылки на рецепты
+
+[33mcommit b63b4959c76337cd9921d1d5bdd4e27351e22b46[m
+Author: VovaHoroshiy <mishinv1987@gmail.com>
+Date:   Tue Nov 18 20:28:18 2025 +0300
+
+    change shugar
+
+[33mcommit 6de80624962c7e81d96d015a1094b6133a0eb92e[m[33m ([m[1;33mtag: [m[1;33mlast_commit[m[33m)[m
+Author: VovaHoroshiy <mishinv1987@gmail.com>
+Date:   Tue Nov 18 19:22:39 2025 +0300
+
+    change name
+
+[33mcommit fb3a1797d4fc4c5108f768bf66da462f4bb0cc4c[m
+Author: VovaHoroshiy <mishinv1987@gmail.com>
+Date:   Tue Nov 18 19:07:26 2025 +0300
+
+    Выделили заголовки в листе рецептов
+
+[33mcommit ee296a501bd3ba7c7af8939c3a06ec654dace811[m
+Author: VovaHoroshiy <mishinv1987@gmail.com>
+Date:   Tue Nov 18 19:03:38 2025 +0300
+
+    Добавлен рецепт Картофеля Айдахо
+
+[33mcommit c0d11615c04409a6c7c8fd5bbe084eec02ba0aa4[m
+Author: VovaHoroshiy <mishinv1987@gmail.com>
+Date:   Tue Nov 18 18:54:48 2025 +0300
+
+     добавлен рецепт Банановых панкейков
+
+[33mcommit 1b9e2b77eb489c506f9808793170b75d9852a4b1[m[33m ([m[1;33mtag: [m[1;33mfirst_commit[m[33m)[m
+Author: VovaHoroshiy <mishinv1987@gmail.com>
+Date:   Tue Nov 18 18:44:33 2025 +0300
+
+    Initial commit
